@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\gameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\gameController.cs" Line="57" Column="20" />
+      <File FileName="Assets\Scripts\silverClick.cs" Line="9" Column="27" />
+      <File FileName="Assets\Scripts\goldClick.cs" Line="9" Column="25" />
+      <File FileName="Assets\Scripts\bronzeClick.cs" Line="9" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
